@@ -63,7 +63,7 @@ const renderTodos = (todos) => {
 
 // when page render this will run
 (function () {
-  // your page initialization code here
+  // page initialization code here
   // the DOM will be available here
   renderTodos(todos);
 })();
